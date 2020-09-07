@@ -1,7 +1,7 @@
-# 👋Hi there, welcome to my github.
+## 👋Hi there, welcome to my github.
 
 
-# 😄About Me
+## 😄About Me
 
 > ⚡我是嘉应学院(18届)的林春燕，目前在校，您愿意给我一个工作机会吗~~~
 
