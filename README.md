@@ -21,7 +21,7 @@
 
 - 📫 **个人博客 :**  https://nate-lin.gitee.io 💛或💛 https://nate-lin.github.io
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nate-lin&show_icons=true&theme=gruvbox)](https://github.com/nate-lin/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nate-lin&show_icons=true&theme=algolia)](https://github.com/nate-lin/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nateshao&layout=compact)](https://github.com/nate-lin/github-readme-stats)
 
