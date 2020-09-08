@@ -25,4 +25,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nate-lin&layout=compact)](https://github.com/nate-lin/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nate-lin&repo=yilia-plus)](https://github.com/nate-lin/yilia-plus)
+
 ![游戏](https://blog-lin1.oss-cn-shenzhen.aliyuncs.com/img/游戏.gif)
