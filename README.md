@@ -27,4 +27,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nate-lin&repo=yilia-plus&show_icons=true&theme=shades-of-purple)](https://github.com/nate-lin/yilia-plus)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nate-lin&repo=hexo-theme-3-hexo&show_icons=true&theme=shades-of-purple)](https://github.com/nate-lin/hexo-theme-3-hexo)
+
 ![游戏](https://blog-lin1.oss-cn-shenzhen.aliyuncs.com/img/游戏.gif)
