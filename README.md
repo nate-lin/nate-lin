@@ -4,21 +4,21 @@
 ## 😄About Me
 
 
-> ✨你好，我是嘉应学院(18届)的林春燕，目前在校，你愿意给我一个工作机会吗😉~~~
+🚥你好，我是嘉应学院（18届）的林春燕，目前在校，你愿意给我一个工作机会吗😉~~~
 
-- :fa-qq:    **QQ :**  1724342055  
+🌱 QQ： 1724342055
 
-- :fa-weixin:    **WeChat :**  LCY5643350216
+🔭 微信： LCY5643350216
 
-- :fa-user:    **微信公众号 :**  JAVA最前线
+🪐 微信公众号： JAVA最前线
 
-- :fa-envelope:    **邮箱 :**  linchunyan335@163.com
+💬 邮箱： linchunyan335@163.com
 
-- :fa-git-square:    **Gitee :**  https://gitee.com/nate-lin
+✨ 吉蒂： https ://gitee.com/nate-lin
 
-- :fa-github-square:    **GitHub :**  https://github.com/nate-lin
+👯 GitHub的： https ：//github.com/nate-lin
 
-- :fa-github-alt:    **个人博客 :**  https://nate-lin.gitee.io 💛或💛 https://nate-lin.github.io
+📫 个人博客： https : //nate-lin.gitee.io 💛或💛 https://nate-lin.github.io
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nate-lin&show_icons=true&theme=shades-of-purple)](https://github.com/nate-lin/github-readme-stats)
