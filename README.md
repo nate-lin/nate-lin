@@ -14,11 +14,11 @@
 
 💬 邮箱： linchunyan335@163.com
 
-✨ 吉蒂： https ://gitee.com/nate-lin
+✨ 吉蒂： https://gitee.com/nate-lin
 
-👯 GitHub的： https ：//github.com/nate-lin
+👯 GitHub的： https://github.com/nate-lin
 
-📫 个人博客： https : //nate-lin.gitee.io 💛或💛 https://nate-lin.github.io
+📫 个人博客： https://nate-lin.gitee.io 💛或💛 https://nate-lin.github.io
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nate-lin&show_icons=true&theme=shades-of-purple)](https://github.com/nate-lin/github-readme-stats)
