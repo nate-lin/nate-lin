@@ -20,9 +20,10 @@
 
 📫 个人博客： https://nate-lin.gitee.io 💛或💛 https://nate-lin.github.io
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nate-lin&layout=compact)](https://github.com/nate-lin/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nate-lin&show_icons=true&theme=shades-of-purple)](https://github.com/nate-lin/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nate-lin&layout=compact)](https://github.com/nate-lin/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nate-lin&repo=yilia-plus&show_icons=true&theme=shades-of-purple)](https://github.com/nate-lin/yilia-plus)
 
