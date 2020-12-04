@@ -14,9 +14,9 @@
 
 💬 邮箱： linchunyan335@163.com
 
-✨ 吉蒂： https://gitee.com/nate-lin
+✨ Gitee： https://gitee.com/nate-lin
 
-👯 GitHub的： https://github.com/nate-lin
+👯 GitHub： https://github.com/nate-lin
 
 📫 个人博客： https://nate-lin.gitee.io 💛或💛 https://nate-lin.github.io
 
