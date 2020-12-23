@@ -26,7 +26,7 @@
     
     ✅https://nate-lin.github.io
     
-    ✅<a href="https://coding-pages-bucket-3501842-8141905-8363-424877-1304568931.cos-website.ap-hongkong.myqcloud.com/">coding</a>
+    ✅<a href="https://coding-pages-bucket-3501842-8141905-8363-424877-1304568931.cos-website.ap-hongkong.myqcloud.com">coding</a>
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nate-lin&show_icons=true&theme=shades-of-purple)](https://github.com/nate-lin/github-readme-stats)
