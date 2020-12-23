@@ -22,11 +22,11 @@
 
 📫 个人博客  
 
-    ✅https://nate-lin.gitee.io 
+✅https://nate-lin.gitee.io 
     
-    ✅https://nate-lin.github.io
+✅https://nate-lin.github.io
     
-    ✅<a href="https://coding-pages-bucket-3501842-8141905-8363-424877-1304568931.cos-website.ap-hongkong.myqcloud.com" >coding</a>
+✅<a target="_blank" rel="nofollow" href="https://coding-pages-bucket-3501842-8141905-8363-424877-1304568931.cos-website.ap-hongkong.myqcloud.com" >coding</a>
 
 <a target="_blank" rel="nofollow" href="https://coding-pages-bucket-3501842-8141905-8363-424877-1304568931.cos-website.ap-hongkong.myqcloud.com" >coding</a>
 
